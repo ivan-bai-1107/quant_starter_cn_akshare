@@ -8,6 +8,14 @@ A-share research starter with online/offline data loading, sector rotation backt
 pip install -r requirements.txt
 ```
 
+## Visual UI
+
+Run the Streamlit app for an interactive interface:
+
+```bash
+streamlit run app.py
+```
+
 ## Single Stock Backtest
 
 Online:
