@@ -1,0 +1,7 @@
+mode: online
+adjust: qfq
+rotation:
+  top_k: 3
+  trend_filter: true
+news:
+  top_cons: 20
